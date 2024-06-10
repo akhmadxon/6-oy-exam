@@ -6,7 +6,7 @@
   }
   
   .product-card {
-    background-color: #f9f9f9;
+    background-color: #9dc5f7;
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -22,11 +22,13 @@
   .product-card h3 {
     font-size: 1.2em;
     margin: 10px 0;
+    color: black;
+
   }
   
   .product-card p {
     margin: 5px 0;
-    color: #555;
+    color: #fff;
   }
   
   .product-card strong {
@@ -38,11 +40,13 @@
     height: 300px;
     margin-top: 10px;
     border-radius: 8px;
+    
   }
   
   .product-card .price {
     font-size: 1.5em;
     color: #b12704;
+
   }
   
   .pagination-container {
